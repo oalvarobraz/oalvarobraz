@@ -52,11 +52,11 @@ Sou o Alvaro Braz! Meu foco atual é o desenvolvimento de soluções em **Inteli
 
 <div align="center">
   <a href="https://github.com/oalvarobraz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oalvarobraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalvarobraz&layout=compact&langs_count=7&theme=dracula"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=oalvarobraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalvarobraz&layout=compact&langs_count=7&theme=dracula" height="180" alt="languages" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/oalvarobraz/oalvarobraz/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/oalvarobraz/oalvarobraz/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
