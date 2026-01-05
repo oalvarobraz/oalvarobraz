@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/oalvarobraz">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2098D1&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Alvaro+Braz+👋;Machine+Learning+Enthusiast;Data+Science+%26+AI;Python+%7C+PyTorch+%7C+Pandas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2098D1&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Alvaro+Braz+👋;Machine+Learning+Engineer;Deep+Learning+%26+Computer+Vision;PyTorch+Expert+%7C+AWS+Cloud" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,13 +21,14 @@
 
 <br>
 
-### 🧠 Sobre Mim
+### 🧠 About Me
 
-Sou o Alvaro Braz! Meu foco atual é o desenvolvimento de soluções em **Inteligência Artificial, Machine Learning e Deep Learning**.
+I am a **Machine Learning Engineer** specializing in **Deep Learning and Computer Vision**. My work focuses on building end-to-end AI solutions, from training custom neural architectures (Transformers, CNNs, U-Nets) to deploying them into production environments.
 
-* 🔭 Atualmente trabalhando com **PyTorch e Análise de Dados**
-* 💡 Tenho experiência prévia com **C, Java, Haskell e Prolog**
-* 🌱 Aprofundando conhecimentos em **Redes Neurais e Modelagem de Dados**
+* 🔭 Currently focused on **Deep Learning with PyTorch** and **Cloud Infrastructure (AWS)**.
+* ⚡ Expertise in **Custom Neural Architectures** and **Multi-Task Learning**.
+* 🌱 Building scalable AI pipelines with **Docker and AWS Lambda**.
+* 🎯 Goal: Leveraging AI to solve real-world problems with high-performance engineering.
 
 <br>
 
@@ -36,14 +37,17 @@ Sou o Alvaro Braz! Meu foco atual é o desenvolvimento de soluções em **Inteli
 <div align="center">
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="PyTorch" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
+  <img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="FastAPI" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
   <img align="center" alt="Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
   <img align="center" alt="Numpy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
   <img align="center" alt="ScikitLearn" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg">
   
   <br><br>
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Haskell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
 
 <br>
