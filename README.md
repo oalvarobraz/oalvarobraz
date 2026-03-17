@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/alvaro-braz-cunha/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  <a href="mailto:alvarobrac@gmail.com">
+  <a href="mailto:alvarobrazc@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
@@ -23,12 +23,13 @@
 
 ### 🧠 About Me
 
-I am a **Machine Learning Engineer** specializing in **Deep Learning and Computer Vision**. My work focuses on building end-to-end AI solutions, from training custom neural architectures (Transformers, CNNs, U-Nets) to deploying them into production environments.
+I am a **Machine Learning Engineer** specializing in **Deep Learning, Computer Vision, and Generative AI**. My work focuses on building end-to-end AI solutions, from training custom neural architectures (Transformers, CNNs, U-Nets) to deploying scalable production systems on AWS.
 
-* 🔭 Currently focused on **Deep Learning with PyTorch** and **Cloud Infrastructure (AWS)**.
-* ⚡ Expertise in **Custom Neural Architectures** and **Multi-Task Learning**.
-* 🌱 Building scalable AI pipelines with **Docker and AWS Lambda**.
-* 🎯 Goal: Leveraging AI to solve real-world problems with high-performance engineering.
+* 🔭 Currently focused on **Generative AI (RAG)**, **Self-Supervised Learning**, and **AWS Infrastructure**.
+* ⚡ Expertise in **LLM Orchestration (Amazon Bedrock)** and **Object Detection (PyTorch/YOLO)**.
+* 🌱 Building scalable AI pipelines with **Docker, AWS SageMaker, and Serverless (Lambda)**.
+* 🎓 Certified in **Machine Learning by Stanford University & DeepLearning.AI**.
+* 🎯 Goal: Bridging the gap between cutting-edge AI research and high-performance engineering.
 
 <br>
 
