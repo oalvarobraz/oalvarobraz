@@ -35,21 +35,22 @@ I am a **Machine Learning Engineer** specializing in **Deep Learning, Computer V
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="center">
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="PyTorch" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
-  <img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="FastAPI" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
-  <img align="center" alt="Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Numpy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img align="center" alt="ScikitLearn" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg">
-  
+<p align="left">
+  <b>Core & Frameworks</b><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <br><br>
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-</div>
+  <b>MLOps, Cloud & Backend</b><br>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 <br>
 
@@ -57,11 +58,13 @@ I am a **Machine Learning Engineer** specializing in **Deep Learning, Computer V
 
 <div align="center">
   <a href="https://github.com/oalvarobraz">
-    <img src="https://github-readme-stats.vercel.app/api?username=oalvarobraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" alt="stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalvarobraz&layout=compact&langs_count=7&theme=dracula" height="180" alt="languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=oalvarobraz&show_icons=true&theme=dracula" height="150" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalvarobraz&layout=compact&langs_count=7&theme=dracula" height="150" alt="languages" />
   </a>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github.com/oalvarobraz/oalvarobraz/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/oalvarobraz/oalvarobraz/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
