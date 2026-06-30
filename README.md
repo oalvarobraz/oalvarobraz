@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/oalvarobraz">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2098D1&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Alvaro+Braz+👋;Machine+Learning+Engineer;Deep+Learning+%26+Computer+Vision;PyTorch+Expert+%7C+AWS+Cloud" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2098D1&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Alvaro+Braz+👋;AI+%26+ML+Developer+@+Apollo;Deep+Learning+%26+Computer+Vision;PyTorch+Expert+%7C+AWS+Cloud" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,10 +23,10 @@
 
 ### 🧠 About Me
 
-I am a **Machine Learning Engineer** specializing in **Deep Learning, Computer Vision, and Generative AI**. My work focuses on building end-to-end AI solutions, from training custom neural architectures (Transformers, CNNs, U-Nets) to deploying scalable production systems on AWS.
+I am an **AI & Machine Learning Developer** at **Apollo Solutions Dev** and a **Machine Learning Engineer** specializing in **Deep Learning, Computer Vision, and Generative AI**. My work focuses on building end-to-end AI solutions, from training custom neural architectures (Transformers, CNNs, U-Nets) to deploying scalable production systems.
 
-* 🔭 Currently focused on **Generative AI (RAG)**, **Self-Supervised Learning**, and **AWS Infrastructure**.
-* ⚡ Expertise in **LLM Orchestration (Amazon Bedrock)** and **Object Detection (PyTorch/YOLO)**.
+* 🔭 Currently working as an **AI & ML Developer** at **Apollo Solutions Dev** (Remote).
+* ⚡ Expertise in **Computer Vision (PyTorch/YOLO)**, **Self-Supervised Learning**, and **Generative AI (RAG)**.
 * 🌱 Building scalable AI pipelines with **Docker, AWS SageMaker, and Serverless (Lambda)**.
 * 🎓 Certified in **Machine Learning by Stanford University & DeepLearning.AI**.
 * 🎯 Goal: Bridging the gap between cutting-edge AI research and high-performance engineering.
